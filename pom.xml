@@ -20,7 +20,8 @@
 	
 <dependency>
 		<groupId>org.springframework</groupId>
-		<artifactId>spring</artifactId>
+		
+<artifactId>spring</artifactId>
 		<version>2.5.6</version>
 	</dependency>
     
